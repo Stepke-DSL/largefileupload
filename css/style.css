@@ -1,0 +1,28 @@
+
+
+
+/**
+ * Create your custom styles in here
+ */
+#app {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        padding: 2em;
+}
+
+.heading {
+        margin: 0 0 1em 0;
+        font-size: 12pt;
+        font-weight: bold;
+}
+
+.centered {
+        margin: auto;
+}
+
+.paragraph {
+        line-height: 1.5;
+        padding-bottom: 1em;
+}

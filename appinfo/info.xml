@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+	<id>largefileupload</id>
+	<name>Large File Upload</name>
+	<description>Provides functions to upload large files with your HTML5-Browser.</description>
+	<version>1.3</version>
+	<licence>nothing</licence>
+	<author>Stephan Neblung</author>
+	<require>7</require>
+     <standalone/>
+      <types>
+          <filesystem/>
+      </types>
+</info>

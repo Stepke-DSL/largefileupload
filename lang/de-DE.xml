@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HTML5FileUpload>
+	<Translation>
+		<btn_upload>Upload</btn_upload>
+		<btn_abort>abbrechen</btn_abort>
+		<btn_abort_all>alle abbrechen</btn_abort_all>
+		<btn_reset>zurücksetzen</btn_reset>
+		<btn_remove>entfernen</btn_remove>
+		<drag_drop>Dateien hier rein ziehen</drag_drop>
+		<done>Upload abgeschlossen</done>
+		<max_part_size>max. Teil-Dateigröße</max_part_size>
+		<notification_title>ownCloud - Large File Upload</notification_title>
+		<notification_body_done>Upload abgeschlossen</notification_body_done>
+		<error_no_html5>Mit Ihrem Browser ist ein HTML5-Dateiupload nicht möglich!</error_no_html5>
+	</Translation>
+</HTML5FileUpload>
